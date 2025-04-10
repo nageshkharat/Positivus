@@ -46,7 +46,7 @@ export default function Header() {
 
           {/* Logo */}
           <Box sx={{ display: "flex", alignItems: "center", gap: 1, flexGrow: isMobile ? 1 : 0 }}>
-            <img src="/brands/Vector.png" alt="Vector Logo" style={{ height: isMobile ? "25px" : "30px", width: "auto" }} />
+            <img src="/brands/vector.png" alt="Vector Logo" style={{ height: isMobile ? "25px" : "30px", width: "auto" }} />
             <Typography
               variant={isMobile ? "h5" : "h6"}
               component="a"
