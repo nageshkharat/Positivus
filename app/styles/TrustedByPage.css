@@ -1,0 +1,89 @@
+.trusted-by-page {
+  min-height: 100vh;
+  padding: 80px 0;
+  background-color: #f8f9fa;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.page-header p {
+  font-size: 1.1rem;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.companies-slider {
+  margin: 0 -15px;
+}
+
+.company-logo-container {
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: grayscale(100%);
+  opacity: 0.7;
+  transition: all 0.3s ease;
+}
+
+.company-logo-container:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.company-logo {
+  height: 60px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Slider customization */
+.slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.slick-slide {
+  height: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .trusted-by-page {
+    padding: 60px 0;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+  }
+
+  .company-logo {
+    height: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  .trusted-by-page {
+    padding: 40px 0;
+  }
+
+  .page-header h1 {
+    font-size: 1.75rem;
+  }
+
+  .company-logo {
+    height: 40px;
+  }
+} 
