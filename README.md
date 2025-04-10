@@ -34,7 +34,7 @@ A modern, responsive marketing agency website built with Next.js and Material-UI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/marketing-agency.git
+git clone https://github.com/yourusername/Positivus.git
 ```
 
 2. Navigate to the project directory:
@@ -95,13 +95,3 @@ The site can be deployed on Vercel, Netlify, or any other platform that supports
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/marketing-agency](https://github.com/yourusername/marketing-agency) 
