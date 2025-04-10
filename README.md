@@ -1,6 +1,6 @@
-# Marketing Agency Website
+# Marketing Agency Website - Positivus
 
-A modern, responsive marketing agency website built with Next.js and Material-UI.
+A modern, responsive marketing agency website built with React.js and Material-UI.
 
 ## Features
 
@@ -34,7 +34,7 @@ A modern, responsive marketing agency website built with Next.js and Material-UI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Positivus.git
+git clone https://github.com/nageshkharat/Positivus.git
 ```
 
 2. Navigate to the project directory:
